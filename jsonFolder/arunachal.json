@@ -1,0 +1,237 @@
+[
+    {
+        "_id": "66d2d2ba9d8358a5aa6db6dd",
+        "university": "Central Agricultural University, Imphal (Id: U-0336)",
+        "college": "College of Horticulture and Forestry, Pasighat (Id: C-26828)",
+        "college_type": "Constituent / University College",
+        "state": "Arunachal Pradesh",
+        "district": "East Siang",
+        "website": "https://www.chfcau.org.in/",
+        "email": "vcofficecau@yahoo.in"
+    },
+    {
+        "_id": "66d2d2ba9d8358a5aa6dd555",
+        "university": "Indira Kala Sangit Vishwavidyalaya, Khairagarh (Id: U-0088)",
+        "college": "Ranjeev College of Fine Arts,Itanagar - 791111 (Id: C-33068)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "Papum Pare",
+        "website": "N/A"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e14f2",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "Arunachal Community College of Health Sciences (Id: C-16298)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "Papum Pare",
+        "website": "N/A"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e14f3",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "Arunachal Law Academy (Id: C-16293)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "Papum Pare",
+        "website": "N/A"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e14f4",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "DAYING ERING COLLEGE OF TEACHERs EDUCATION, PASIGHAT (Id: C-47704)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "East Siang",
+        "website": "N/A"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e14f5",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "Dera Natung Government College, Itanagar (Id: C-16291)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "Papum Pare",
+        "website": "http://dngc.ac.in/"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e14f6",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "Don Bosco College, Juli, Itanagar (Id: C-16296)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "Papum Pare",
+        "website": "http://www.dbcitanagar.ac.in/"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e14f7",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "Donyi Polo Government College, Kamki (Id: C-16292)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "West Siang",
+        "website": "http://dpgc.ac.in/"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e14f8",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "Doying Gumin College, Pasighat (Id: C-16295)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "East Siang",
+        "website": "http://www.dgcolleg.blogspot.com/"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e14f9",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "Government College, Bomdila (Id: C-16297)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "West Kameng",
+        "website": "http://gcbomdila.in/"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e14fa",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "GOVERNMENT COLLEGE, DAPORIJO (Id: C-47709)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "Upper Subansiri",
+        "website": "N/A"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e14fb",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "GOVERNMENT COLLEGE, DOIMUKH (Id: C-47708)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "Papum Pare",
+        "website": "N/A"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e14fc",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "Government College Seppa (Id: C-16303)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "East Kameng",
+        "website": "N/A"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e14fd",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "Government College, Yachuli (Id: C-16299)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "Lower Subansiri",
+        "website": "N/A"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e14fe",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "Hills College of Teacher's Education, Naharlagun (Id: C-16289)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "Papum Pare",
+        "website": "N/A"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e14ff",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "Indira Gandhi Government College, Tezu (Id: C-16304)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "Lohit",
+        "website": "N/A"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e1500",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "Jawaharlal Nehru College Pasighat (Id: C-16302)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "East Siang",
+        "website": "https://jncpasighat.edu.in/"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e1501",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "MUDO TAMO MEMORIAL COLLEGE, ZIRO (Id: C-47706)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "Lower Subansiri",
+        "website": "N/A"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e1502",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "North East Homeopathic Medical College, Itanagar (Id: C-16294)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "Papum Pare",
+        "website": "http://nehmc.com/"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e1503",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "Rang Frah Government College, Changlang (Id: C-16290)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "Changlang",
+        "website": "N/A"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e1504",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "SIANG ROYAL ACADEMY, PASIGHAT (Id: C-47705)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "East Siang",
+        "website": "N/A"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e1505",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "St. Claret College, Ziro (Id: C-16288)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "Lower Subansiri",
+        "website": "https://sccz.edu.in/"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e1506",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "St. Francis De Sales College, Aalo (Id: C-16301)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "West Siang",
+        "website": "http://www.sfscollege.org/"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e1507",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "TADAR TANIANG GOVERNMENT COLLEGE, NYAPIN (Id: C-47710)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "Kurung Kumey",
+        "website": "N/A"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e1508",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "TT COLLEGE, AALO (Id: C-47707)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "West Siang",
+        "website": "N/A"
+    },
+    {
+        "_id": "66d2d2bb9d8358a5aa6e1509",
+        "university": "Rajiv Gandhi University, Itanagar (Id: U-0047)",
+        "college": "Wangcha Rajkumar Government College, Deomali (Id: C-16300)",
+        "college_type": "Affiliated College",
+        "state": "Arunachal Pradesh",
+        "district": "Tirap",
+        "website": "N/A"
+    }
+]

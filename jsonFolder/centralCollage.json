@@ -1,0 +1,42 @@
+{
+    "Aligarh Muslim University": {
+        "Dean Email": "dsw.amu@amu.ac.in",
+        "Principal Email": null
+    },
+    "Assam University": {
+        "Dean Email": "deanau@aus.ac.in",
+        "Principal Email": null
+    },
+    "Babasaheb Bhimrao Ambedkar University": {
+        "Dean Email": "dean@bbau.ac.in",
+        "Principal Email": null
+    },
+    "Banaras Hindu University": {
+        "Dean Email": "dean@bhu.ac.in",
+        "Principal Email": null
+    },
+    "Central Agricultural University": {
+        "Dean Email": null,
+        "Principal Email": "registrar@cau.ac.in"
+    },
+    "Central Sanskrit University": {
+        "Dean Email": null,
+        "Principal Email": "csu@nic.in"
+    },
+    "Central Tribal University of Andhra Pradesh": {
+        "Dean Email": null,
+        "Principal Email": "registrar@ctuap.ac.in"
+    },
+    "Central University of Andhra Pradesh": {
+        "Dean Email": null,
+        "Principal Email": "registrar@cuap.ac.in"
+    },
+    "Central University of Gujarat": {
+        "Dean Email": "dean@cug.ac.in",
+        "Principal Email": "registrar@cug.ac.in"
+    },
+    "Central University of Haryana": {
+        "Dean Email": null,
+        "Principal Email": "info@cuh.ac.in"
+    }
+}

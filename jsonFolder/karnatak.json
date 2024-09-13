@@ -1,0 +1,501 @@
+[
+    {
+        "Sr_No": 9,
+        "Type": "Private",
+        "Name_of_the_University": "Adichunchanagiri University",
+        "Address": "B G Nagara NH-75, Tq- Nagamangala,Dist- Mandya",
+        "Zip": 571448,
+        "state": "Karnataka",
+        "Status": "2(f)",
+        "Website": "https://acu.edu.in"
+    },
+    {
+        "Sr_No": 18,
+        "Type": "Private",
+        "Name_of_the_University": "Alliance University",
+        "Address": "Chikkahagada Cross, Chandapura-Anekal Main Road, Bangalore",
+        "Zip": 562106,
+        "state": "Karnataka",
+        "Status": "2(f)",
+        "Website": "https://alliance.edu.in"
+    },
+    {
+        "Sr_No": 26,
+        "Type": "Private",
+        "Name_of_the_University": "Amity University",
+        "Address": "NH 648 (Old 207), Beerasandra, Alurududdhanahalli Post, Devanahalli Taluk, Bengaluru Rural District",
+        "Zip": 562110,
+        "state": "Karnataka",
+        "Status": "2(f)",
+        "Website": "https://amity.edu"
+    },
+    {
+        "Sr_No": 50,
+        "Type": "Private",
+        "Name_of_the_University": "Atria University",
+        "Address": "ASKB Campus1st Main Road, AGS Colony, Anandhnagar, Hebbal, Bangaluru",
+        "Zip": 560024,
+        "state": "Karnataka",
+        "Status": "2(f)",
+        "Website": "https://atria.edu"
+    },
+    {
+        "Sr_No": 55,
+        "Type": "Private",
+        "Name_of_the_University": "Azim Premji University",
+        "Address": "Survey No 66,Burugunte Village,Bikkanahalli Main Rd,Sarjapura, Bengaluru",
+        "Zip": 562125,
+        "state": "Karnataka",
+        "Status": "2(f)",
+        "Website": "https://azimpremjiuniversity.edu.in"
+    },
+    {
+        "Sr_No": 84,
+        "Type": "Private",
+        "Name_of_the_University": "Chanakya University",
+        "Address": "Brigade Orchards,Rayasandru Village, Kasaba Hobli,Devanahalli Taluk,Bengaluru Rural District",
+        "Zip": 562110,
+        "state": "Karnataka",
+        "Status": "2(f)",
+        "Website": "N/A"
+    },
+    {
+        "Sr_No": 92,
+        "Type": "Private",
+        "Name_of_the_University": "CMR University",
+        "Address": "#2, 3rd C Cross, 6th A Main, HEBR Layout, Kalyananagar, Bangalore",
+        "Zip": 560043,
+        "state": "Karnataka",
+        "Status": "2(f)",
+        "Website": "https://cmr.edu.in"
+    },
+    {
+        "Sr_No": 94,
+        "Type": "Private",
+        "Name_of_the_University": "Dayananda Sagar University",
+        "Address": "Shavige Malleshwara Hills, Kumaraswamy Layout, Bangalore",
+        "Zip": 560078,
+        "state": "Karnataka",
+        "Status": "2(f)",
+        "Website": "https://dsgroup.edu.in"
+    },
+    {
+        "Sr_No": 97,
+        "Type": "Private",
+        "Name_of_the_University": "Garden City University",
+        "Address": "16th KM, Old Madras Road, K R Puram, Bangalore",
+        "Zip": 560049,
+        "state": "Karnataka",
+        "Status": "2(f)",
+        "Website": "https://gardencity.university"
+    },
+    {
+        "Sr_No": 99,
+        "Type": "Private",
+        "Name_of_the_University": "Global University",
+        "Address": "45, Bannerghatta Main Rd, Bilekahalli, Bangalore",
+        "Zip": 560076,
+        "state": "Karnataka",
+        "Status": "2(f)",
+        "Website": "https://gibs.edu.in"
+    },
+    {
+        "Sr_No": 121,
+        "Type": "Private",
+        "Name_of_the_University": "Jain University",
+        "Address": "Jayanagar 9th Block, Bangalore",
+        "Zip": 560069,
+        "state": "Karnataka",
+        "Status": "2(f)",
+        "Website": "https://jainuniversity.ac.in"
+    },
+    {
+        "Sr_No": 122,
+        "Type": "Private",
+        "Name_of_the_University": "Jagadguru Sri Shivarathreeswara University",
+        "Address": "JSS Technical Institutions Campus, Mysuru",
+        "Zip": 570006,
+        "state": "Karnataka",
+        "Status": "2(f)",
+        "Website": "https://jssuni.edu.in"
+    },
+    {
+        "Sr_No": 211,
+        "Type": "Private",
+        "Name_of_the_University": "Karnavati University",
+        "Address": "907/A, Uvarsad, Ghandhinagar",
+        "Zip": 382422,
+        "state": "Gujarat",
+        "Status": "2(f)",
+        "Website": "https://karnavatiuniversity.edu.in"
+    },
+    {
+        "Sr_No": 212,
+        "Type": "Private",
+        "Name_of_the_University": "Khaja Bandanawaz University",
+        "Address": "Admin Block, Rauza-i Buzurg, Kalaburagi",
+        "Zip": 585104,
+        "state": "Karnataka",
+        "Status": "2(f)",
+        "Website": "https://kbnu.edu.in"
+    },
+    {
+        "Sr_No": 214,
+        "Type": "Private",
+        "Name_of_the_University": "Kishkinda University",
+        "Address": "City Campus, Ballari Business College, Siruguppa Road, Ballari",
+        "Zip": 583103,
+        "state": "Karnataka",
+        "Status": "2(f)",
+        "Website": "N/A"
+    },
+    {
+        "Sr_No": 215,
+        "Type": "Private",
+        "Name_of_the_University": "KLE Technological University",
+        "Address": "B.V. Bhoomarddi College Campus,Vidyanagar,Hubballi",
+        "Zip": 580031,
+        "state": "Karnataka",
+        "Status": "2(f) & 12(B)",
+        "Website": "https://kletech.ac.in"
+    },
+    {
+        "Sr_No": 227,
+        "Type": "Private",
+        "Name_of_the_University": "M.S. Ramaiah University of Applied Sciences",
+        "Address": "University House, Gnanagangothri Campus, New BEL Road, M S R Nagar, Bangalore",
+        "Zip": 560054,
+        "state": "Karnataka",
+        "Status": "2(f)",
+        "Website": "https://msruas.ac.in"
+    },
+    {
+        "Sr_No": 305,
+        "Type": "Private",
+        "Name_of_the_University": "PES University",
+        "Address": "100 Feet Ring Road, BSK III Stage, Bangalore",
+        "Zip": 560085,
+        "state": "Karnataka",
+        "Status": "2(f)",
+        "Website": "https://pes.edu"
+    },
+    {
+        "Sr_No": 313,
+        "Type": "Private",
+        "Name_of_the_University": "Presidency University",
+        "Address": "Itgalpur, Rajanakunte,Yelahanka,Bengaluru",
+        "Zip": 560064,
+        "state": "Karnataka",
+        "Status": "2(f)",
+        "Website": "https://presidencyuniversity.in"
+    },
+    {
+        "Sr_No": 341,
+        "Type": "Private",
+        "Name_of_the_University": "REVA University",
+        "Address": "Rukmini Knowledge Park, Kattigenahalli, Yelahanka, Bangalore",
+        "Zip": 560064,
+        "state": "Karnataka",
+        "Status": "2(f)",
+        "Website": "https://reva.edu.in"
+    },
+    {
+        "Sr_No": 367,
+        "Type": "Private",
+        "Name_of_the_University": "RNB Global University",
+        "Address": "Ganganagar, Bikaner, Rajasthan",
+        "Zip": 334601,
+        "state": "Rajasthan",
+        "Status": "2(f)",
+        "Website": "https://rnbglobal.edu.in"
+    },
+    {
+        "Sr_No": 385,
+        "Type": "Private",
+        "Name_of_the_University": "Rai Technology University",
+        "Address": "Doddaballapur Nelamangala Road, Doddaballapur, Bangalore",
+        "Zip": 561204,
+        "state": "Karnataka",
+        "Status": "2(f)",
+        "Website": "https://raitechuniversity.in/"
+    },
+    {
+        "Sr.No": 9,
+        "Type": "Private",
+        "Name of the University": "Adichunchanagiri University",
+        "Address": "B G Nagara NH-75, Tq- Nagamangala,Dist- Mandya",
+        "Zip": 571448,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 18,
+        "Type": "Private",
+        "Name of the University": "Alliance University",
+        "Address": "Chikkahagada Cross, Chandapura-Anekal Main Road, Bangalore",
+        "Zip": 562106,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 26,
+        "Type": "Private",
+        "Name of the University": "Amity University",
+        "Address": "NH 648 (Old 207), Beerasandra, Alurududdhanahalli Post, Devanahalli Taluk, Bengaluru Rural District",
+        "Zip": 562110,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 50,
+        "Type": "Private",
+        "Name of the University": "Atria University",
+        "Address": "ASKB Campus1st Main Road, AGS Colony, Anandhnagar, Hebbal, Bangaluru",
+        "Zip": 560024,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 55,
+        "Type": "Private",
+        "Name of the University": "Azim Premji University",
+        "Address": "Survey No 66,Burugunte Village,Bikkanahalli Main Rd,Sarjapura, Bengaluru",
+        "Zip": 562125,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 84,
+        "Type": "Private",
+        "Name of the University": "Chanakya University",
+        "Address": "Brigade Orchards,Rayasandru Village, Kasaba Hobli,Devanahalli Taluk,Bengaluru Rural District",
+        "Zip": 562110,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 92,
+        "Type": "Private",
+        "Name of the University": "CMR University",
+        "Address": "#2, 3rd C Cross, 6th A Main, HEBR Layout, Kalyananagar, BangaloreIInd Block, HRBR Layout,Kalyan Nagar, Bangalore",
+        "Zip": 560043,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 100,
+        "Type": "Private",
+        "Name of the University": "Dayananda Sagar University",
+        "Address": "Innovation Campus, Hosur Main Road, Kudlu Gate, BangaloreKumaraswamy Layout, BangaloreKarnataka",
+        "Zip": 560114,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 129,
+        "Type": "Private",
+        "Name of the University": "G. M. University",
+        "Address": "Karur Village, Kasaba Hobli, Davanagere District",
+        "Zip": 577006,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 137,
+        "Type": "Private",
+        "Name of the University": "Garden City University",
+        "Address": "GCC House, #340, 5th Main,Indiranagar Double Road,,1st Stage, Indiranagar, Banglore",
+        "Zip": 560038,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 203,
+        "Type": "Private",
+        "Name of the University": "JSS Science & Technology University",
+        "Address": "JSS Science and Technology University, JSS Technical Institutions Campus, MysuruMysuru",
+        "Zip": 570006,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 211,
+        "Type": "Private",
+        "Name of the University": "Karnavati University",
+        "Address": "907/A, UvarsadGhandhinagar",
+        "Zip": 382422,
+        "State": "Gujarat",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 212,
+        "Type": "Private",
+        "Name of the University": "Khaja Bandanawaz University",
+        "Address": "Admin Block, Rauza-i Buzurg,Kalaburagi",
+        "Zip": 585104,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 214,
+        "Type": "Private",
+        "Name of the University": "Kishkinda University",
+        "Address": "City Campus, Ballari Business College, Siruguppa Road, Ballari",
+        "Zip": 583103,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 215,
+        "Type": "Private",
+        "Name of the University": "KLE Technological University",
+        "Address": "B.V. Bhoomarddi College Campus,Vidyanagar,Hubballi",
+        "Zip": 580031,
+        "State": "Karnataka",
+        "Status": "2(f) & 12(B)"
+    },
+    {
+        "Sr.No": 227,
+        "Type": "Private",
+        "Name of the University": "M.S. Ramaiah University of Applied Sciences",
+        "Address": "University House, Gnanagangothri Campus,New BEL Road, M S R Nagar, Bangalore, Karnataka, INDIA - 560 054M S R Nagar, Bangalore",
+        "Zip": 560054,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 305,
+        "Type": "Private",
+        "Name of the University": "PES University",
+        "Address": "100 Feet Ring Road, BSK III Stage, Bangalore",
+        "Zip": 560085,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 313,
+        "Type": "Private",
+        "Name of the University": "Presidency University",
+        "Address": "Itgalpur, Rajanakunte,Yelahanka,Bengaluru,560064RajanakunteBangaluru",
+        "Zip": 560064,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 320,
+        "Type": "Private",
+        "Name of the University": "Rai Technology University",
+        "Address": "11th Mile Gallu, Doddaballapur – Nelamangala Road, Mallohalli Village, Kadanur(Post), Madure(Hobli), Doddaballapur Taluk, Bangalore SH-74, Off Highway 207,Doddaballapur Taluk, Bangalore",
+        "Zip": 561204,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 330,
+        "Type": "Private",
+        "Name of the University": "Reva University",
+        "Address": "Rukmani knowledge park,KattigenahalliYelahanka,Bangalore",
+        "Zip": 560064,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 335,
+        "Type": "Private",
+        "Name of the University": "RV University",
+        "Address": "RVU Administrative BuildingRV Vidyaniketan Post8th Mile, Mysuru Road, Bengaluru",
+        "Zip": 560059,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 353,
+        "Type": "Private",
+        "Name of the University": "Sapthagiri NPS University",
+        "Address": "14/5, Chikkasandra, Hesaraghatta main road, Bengaluru",
+        "Zip": 550057,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 356,
+        "Type": "Private",
+        "Name of the University": "Sardar Vallabhbhai Global University",
+        "Address": "Chimanbhai Patel Institute Campus, Opp, Karnavati Club, Ahmedabad",
+        "Zip": 380015,
+        "State": "Gujarat",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 365,
+        "Type": "Private",
+        "Name of the University": "Sharnbasva University",
+        "Address": "Kalaburgi (Gulbarga)",
+        "Zip": 585103,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 371,
+        "Type": "Private",
+        "Name of the University": "Shri Dharmasthala Manjunatheshwara University",
+        "Address": "Manjushree Nagar , Sattur ,Dharwad- 09SDM College of Medical Sciences & Hospital CampusSattur, Dharwad",
+        "Zip": 580009,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 406,
+        "Type": "Private",
+        "Name of the University": "Sri Jagadhguru Murugarajendra University",
+        "Address": "SJM Camus,Chitradurga",
+        "Zip": 577502,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 408,
+        "Type": "Private",
+        "Name of the University": "Sri Sathya Sai University for Human Excellence",
+        "Address": "Sri Sathya Sai Vidyaniketanam Campus,Navanihala, Post-Okali,Taluk-Kamalpur, Dist- Kalburagi",
+        "Zip": 585313,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 412,
+        "Type": "Private",
+        "Name of the University": "Srinivas University",
+        "Address": "Srinivas Nagar, Mukka, MangaloreCampus, Srinivas Nagar, Mukka, SurathkalMangalore",
+        "Zip": 574146,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 416,
+        "Type": "Private",
+        "Name of the University": "St. Joseph's University",
+        "Address": "P O Box 27094, #36, Lalbagh RoadBengaluru",
+        "Zip": 560027,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 456,
+        "Type": "Private",
+        "Name of the University": "The University of Trans-Disciplinary Health Sciences and Technology",
+        "Address": "74/2, Jarakabande Kaval,Yelahanka, Via Attur PostBangalore",
+        "Zip": 560064,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    },
+    {
+        "Sr.No": 474,
+        "Type": "Private",
+        "Name of the University": "Vidyashilp University",
+        "Address": "No. 125, Bettenahalli,Kundana Hobli, Chapparkallu Road,Bengaluru",
+        "Zip": 562110,
+        "State": "Karnataka",
+        "Status": "2(f)"
+    }
+]
